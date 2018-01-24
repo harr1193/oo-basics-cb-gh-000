@@ -27,5 +27,8 @@ class Book
   def genre
     @genre
   end
-    
+
+  def turn_oage
+  end
+
 end
